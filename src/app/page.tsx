@@ -1,6 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
-import styles from '../styles/Home.module.css';
+import "./globals.css";
 import programmingLanguages from "@/app/data/programmingLanguages"; // Gunakan string literal untuk path
 import Card from "@/app/components/Card";
 
